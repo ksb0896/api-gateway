@@ -6,3 +6,6 @@ Single entry point for requests
 http://localhost:9000/api/product
 http://localhost:9000/api/order
 http://localhost:9000/api/inventory
+
+# keycloack - relam
+http://localhost:8181/realms/spring-microservice-security-realm/.well-known/openid-configuration
