@@ -3,8 +3,8 @@
 Single entry point for requests
 
 # URLs - local
-http://localhost:9000/api/product
-http://localhost:9000/api/order
+http://localhost:9000/api/product<br>
+http://localhost:9000/api/order<br>
 http://localhost:9000/api/inventory
 
 # keycloack - relam
